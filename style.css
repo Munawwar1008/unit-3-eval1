@@ -1,0 +1,17 @@
+#products{
+    display:grid;
+    grid-template-columns: auto;
+    grid-gap: 20px;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+}
+
+#navbar{
+    text-align: center;
+    margin: auto;
+}
